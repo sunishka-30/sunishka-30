@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/Khushal-ag/Khushal-ag/main/"/>
+<img align="center" src="https://raw.githubusercontent.com/sunishka-30/sunishka-30/main/Github Banner.png"/>
 <h1 align="center">Hi 👋, I'm Sunishka Sharma</h1>
 <h3 align="center">A hustling coder.</h3>
 
