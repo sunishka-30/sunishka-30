@@ -1,6 +1,8 @@
 <img align="center" src="https://raw.githubusercontent.com/sunishka-30/sunishka-30/main/Github Banner.png"/>
 <h1 align="center">Hi 👋, I'm Sunishka Sharma</h1>
 <h3 align="center">A hustling coder.</h3>
+## Holopin Badges:
+[![@sunishka30's Holopin board](https://holopin.me/sunishka30)](https://holopin.io/@sunishka30)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunishka-30&label=Profile%20views&color=0e75b6&style=flat" alt="sunishka-30" /> </p>
 
